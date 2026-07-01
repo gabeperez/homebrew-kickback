@@ -1,6 +1,6 @@
 cask "kickbacks-bar" do
-  version "1.0"
-  sha256 "306514c9799be1fff8a71c106a09fa849b8fd5f17a99c2a7ff15105a485ce596"
+  version "1.1"
+  sha256 "988be1ff9df3fd84cdc53249fd42b14516eb98c64904884557de4d39120b1b32"
 
   url "https://gabeperez.github.io/kickback-cli/KickbacksBar.zip"
   name "Kickbacks Bar"
