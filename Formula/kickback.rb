@@ -7,10 +7,10 @@
 class Kickback < Formula
   desc "Kickbacks CLI — terminal companion for the Kickbacks.ai editor extension"
   homepage "https://gabeperez.github.io/kickback-cli"
-  url "https://github.com/gabeperez/kickback-cli/archive/refs/tags/v0.1.5.tar.gz"
-  sha256 "b64d3123a6d61897a809ef14e686603668202c1ee3e459120d8d0390bbf3897d"
+  url "https://github.com/gabeperez/kickback-cli/archive/refs/tags/v0.1.6.tar.gz"
+  sha256 "a36f5b4606c6bdf6fb4bd07d869aa6560e3487dd54f57fe0f9e7a585d4225604"
   license "MIT"
-  version "0.1.5"
+  version "0.1.6"
 
   depends_on "python@3.12" => :recommended  # uses stdlib + openssl; cryptography optional
   depends_on :macos
